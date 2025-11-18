@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">A3_RachelTham</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_food_intake">FoodIntakeActivity</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_navigation_options">NavigationOptions</string>
+    <string name="title_activity_insights">InsightsActivity</string>
+    <string name="title_activity_patient_entity">PatientEntity</string>
+    <string name="title_activity_food_intake_entity">FoodIntakeEntity</string>
+    <string name="title_activity_patient_dao">PatientDao</string>
+    <string name="title_activity_food_intake_dao">FoodIntakeDao</string>
+    <string name="title_activity_nutri_track_database">NutriTrackDatabase</string>
+    <string name="title_activity_nutri_track_repository">NutriTrackRepository</string>
+    <string name="title_activity_nutri_track_view_model">NutriTrackViewModel</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="title_activity_clinician_login">ClinicianLoginActivity</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_nutri_coach_entity">NutriCoachEntity</string>
+    <string name="title_activity_nutri_coach_dao">NutriCoachDao</string>
+    <string name="title_activity_fruit_info">FruitInfo</string>
+    <string name="title_activity_fruityvice_service">FruityviceService</string>
+    <string name="title_activity_nutri_coach_screen">NutriCoachScreen</string>
+    <string name="title_activity_retrofit_client">RetrofitClient</string>
+    <string name="title_activity_clinician">ClinicianActivity</string>
+    <string name="title_activity_gemini_service">GeminiService</string>
+    <string name="title_activity_gemini_client">GeminiClient</string>
+    <string name="title_activity_gen_aiview_model">GenAIViewModel</string>
+    <string name="title_activity_test">Test</string>
+</resources>
